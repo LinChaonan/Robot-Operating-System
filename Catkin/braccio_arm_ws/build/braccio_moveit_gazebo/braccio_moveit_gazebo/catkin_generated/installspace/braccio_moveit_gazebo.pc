@@ -1,0 +1,8 @@
+prefix=/home/lcn/braccio_arm_ws/install
+
+Name: braccio_moveit_gazebo
+Description: Description of braccio_moveit_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs

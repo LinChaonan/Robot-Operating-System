@@ -1,0 +1,2 @@
+braccio_moveit_gazebo/braccio_description:braccio_moveit_gazebo/braccio_moveit_config:braccio_moveit_gazebo/braccio_moveit_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/lcn/braccio_arm_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lcn/braccio_arm_ws/install -G Unix Makefiles
