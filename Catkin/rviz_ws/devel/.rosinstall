@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lcn/Robot-Operating-System/Catkin/rviz_ws/devel/setup.sh
