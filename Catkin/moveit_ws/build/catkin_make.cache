@@ -1,0 +1,2 @@
+ros_braccio_opencv_obj_detect_grab
+-DCATKIN_DEVEL_PREFIX=/home/lcn/Robot-Operating-System/Catkin/moveit_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lcn/Robot-Operating-System/Catkin/moveit_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/lcn/Robot-Operating-System/Catkin/moveit_ws/devel
+
+Name: ros_braccio_opencv_obj_detect_grab
+Description: Description of ros_braccio_opencv_obj_detect_grab
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

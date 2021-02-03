@@ -1,8 +1,0 @@
-prefix=/home/lcn/braccio_arm_ws/install
-
-Name: braccio_description
-Description: Description of braccio_description
-Version: 1.2.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
