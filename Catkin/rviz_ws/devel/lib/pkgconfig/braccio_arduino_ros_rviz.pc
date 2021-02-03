@@ -1,0 +1,8 @@
+prefix=/home/lcn/Robot-Operating-System/Catkin/rviz_ws/devel
+
+Name: braccio_arduino_ros_rviz
+Description: Description of braccio_arduino_ros_rviz
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

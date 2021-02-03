@@ -1,0 +1,2 @@
+braccio_arduino_ros_rviz
+-DCATKIN_DEVEL_PREFIX=/home/lcn/Robot-Operating-System/Catkin/rviz_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lcn/Robot-Operating-System/Catkin/rviz_ws/install -G Unix Makefiles
