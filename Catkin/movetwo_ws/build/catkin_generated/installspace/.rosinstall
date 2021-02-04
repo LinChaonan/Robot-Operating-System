@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lcn/Robot-Operating-System/Catkin/movetwo_ws/install/setup.sh

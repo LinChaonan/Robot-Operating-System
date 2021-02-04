@@ -1,0 +1,2 @@
+ros_braccio_moveit
+-DCATKIN_DEVEL_PREFIX=/home/lcn/Robot-Operating-System/Catkin/movetwo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lcn/Robot-Operating-System/Catkin/movetwo_ws/install -G Unix Makefiles
